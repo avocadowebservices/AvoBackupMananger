@@ -4,7 +4,7 @@
 **Plugin URI:** [https://avocadoweb.net](https://avocadoweb.net)  
 **Description:** A WordPress plugin to backup and restore your site files and database with cloud storage support (AWS S3).  
 **Version:** 1.2  
-**Author:** Your Name  
+**Author:** Joseph Brzezowski  
 **Author URI:** [https://avocadoweb.net](https://avocadoweb.net)  
 **License:** GPL2  
 
