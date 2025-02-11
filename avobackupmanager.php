@@ -4,7 +4,7 @@
  * Plugin URI: https://avocadoweb.net/
  * Description: A plugin to backup and restore WordPress files and database with cloud storage support.
  * Version: 1.2
- * Author: Your Name
+ * Author: Joseph Brzezowski
  * Author URI: https://avocadoweb.net/
  * License: GPL2
  */
