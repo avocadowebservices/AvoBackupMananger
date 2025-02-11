@@ -56,7 +56,7 @@
 ---
 
 ## Support
-For support, visit [https://avocadoweb.net/support](https://avocadoweb.net/support) or contact the developer.
+For support, please use the GitHub "Issues" for further assitance.
 
 ---
 
