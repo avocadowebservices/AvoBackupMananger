@@ -1,5 +1,13 @@
 # AvoBackup Manager
 
+![Version](https://img.shields.io/badge/version-1.2-blue)
+![License](https://img.shields.io/badge/license-GPL2-green)
+![WordPress Tested](https://img.shields.io/badge/WordPress-6.5+-informational)
+![PHP](https://img.shields.io/badge/PHP-7.4%2B-orange)
+![Maintenance](https://img.shields.io/badge/maintained-yes-brightgreen)
+![Built by](https://img.shields.io/badge/built%20by-AvocadoWeb.net-brightgreen)
+
+
 ## Plugin Name: AvoBackup Manager
 **Plugin URI:** [https://avocadoweb.net](https://avocadoweb.net)  
 **Description:** A WordPress plugin to backup and restore your site files and database with cloud storage support (AWS S3).  
